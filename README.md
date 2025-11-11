@@ -49,11 +49,5 @@ Contains example input text files for quick testing.
 - Shifts characters based on key values.
 - Enhances diffusion and complexity.
 
-**Decryption:**  
-The process is reversed — first Vigenère decryption, then Playfair decryption — to recover plaintext accurately.
-
 ---
 
-
-# Choose option 1 (Encrypt)
-# Enter plaintext, Playfair key, and Vigenère key
