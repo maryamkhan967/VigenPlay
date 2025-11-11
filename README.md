@@ -11,7 +11,7 @@ The encryption process occurs in two stages:
 
 The result is a cipher that is both **educational and secure** for learning purposes — demonstrating layered encryption design and the importance of key complexity.
 
-The implementation, analysis, and attack experiments are documented in the attached project report .
+The implementation, analysis, and attack experiments are documented in the attached project report.
 
 
 ## ✨ Key Features
