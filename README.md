@@ -11,9 +11,8 @@ The encryption process occurs in two stages:
 
 The result is a cipher that is both **educational and secure** for learning purposes — demonstrating layered encryption design and the importance of key complexity.
 
-The implementation, analysis, and attack experiments are documented in the attached project report *.
+The implementation, analysis, and attack experiments are documented in the attached project report .
 
----
 
 ## ✨ Key Features
 
@@ -35,8 +34,6 @@ Implements **Kasiski**, **Friedman**, and **Hill-Climbing** methods for testing 
 ### 🧾 Example Runs  
 Contains example input text files for quick testing.
 
----
-
 ## 🏗️ Cipher Architecture
 
 **Stage 1: Playfair Cipher**
@@ -49,5 +46,4 @@ Contains example input text files for quick testing.
 - Shifts characters based on key values.
 - Enhances diffusion and complexity.
 
----
 
